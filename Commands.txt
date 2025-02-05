@@ -3,7 +3,7 @@ Start a .exe as Administrator without having Admin:
 1) Start cmd.exe in the folder 1 above the .exe
 2) Run the following commands:
 	set __compat_layer=runasinvoker
-	start "" "*path*"
+	start "" "*path*"			(copy the .exe path and copy paste at *path*)
 
 --------------------------------------------------------
 
