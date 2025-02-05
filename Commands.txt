@@ -4,3 +4,6 @@ Start a .exe as Administrator without having Admin:
 2) Run the following commands:
 	set __compat_layer=runasinvoker
 	start "" "*path*"
+
+--------------------------------------------------------
+
